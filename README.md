@@ -2,3 +2,4 @@
 Primeiro repositório versionado do curso Git e GitHub
 
 Repositório criado durante uma aula ao vivo
+Essa linha estou escrevendo diretamente no GitHub
